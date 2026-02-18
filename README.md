@@ -1,1 +1,1 @@
-# instagram-followe-finder
+# instagram-follower-finder
