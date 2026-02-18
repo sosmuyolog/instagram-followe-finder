@@ -1,7 +1,7 @@
 #!/bin/bash
 # deploy.sh - GitHub’a otomatik yükleme
 
-REPO_URL="https://github.com/your-username/instagram-follower-finder.git"
+REPO_URL="https://github.com/sosmuyolog/instagram-follower-finder.git"
 PROJECT_NAME="instagram-follower-finder"
 
 # Proje klasörünü kontrol et
